@@ -3,7 +3,7 @@
 
 This is Arthur <a name="readme-top"></a>Debiasi, a 30 years old Environmental Engineer switching to a Information Technology carreer, currently living in Macaé - Brazil and studying at [Trybe](https://betrybe.com).
 
-Arthur is always thrilled to focus his time and effort on projects that help others on problem solving. Arthur stands out on diverse and coletive teams by his collaborative and comunication skills. 
+Arthur is a Front-End Developer always thrilled to focus his time and effort on projects that help others on problem solving. Arthur stands out on diverse and coletive teams by his collaborative and comunication skills. 
 
 ### Built With
 
@@ -22,11 +22,11 @@ Arthur is always thrilled to focus his time and effort on projects that help oth
 
  >[![Linux][Linux]][Linux-url][![git][git]][git-url][![GitHub][GitHub]][GitHub-url][![Docker][Docker]][Docker-url]
 
-## Contact
+## Getting Started
 
-Arthur Debiasi - arthurdebiasi@hotmail.com
+Email - arthurdebiasi@hotmail.com
 
-Project Link: [https://linkedin.com/in/arthur-debiasi/](https://linkedin.com/in/arthur-debiasi/)
+LinkedIn: [https://linkedin.com/in/arthur-debiasi/](https://linkedin.com/in/arthur-debiasi/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
