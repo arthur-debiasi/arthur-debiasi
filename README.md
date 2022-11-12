@@ -30,7 +30,12 @@ LinkedIn: [https://linkedin.com/in/arthur-debiasi/](https://linkedin.com/in/arth
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthur-debiasi&show_icons=true&theme=synthwave)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthur-debiasi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  
+  <a href="https://github.com/ItaloLacerda">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=arthur-debiasi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthur-debiasi&layout=compact&langs_count=7&theme=dracula"/>
+    </div>
 
 <!-- FRONT END -->
 [HTML5]: https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white
