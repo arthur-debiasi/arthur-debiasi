@@ -28,15 +28,18 @@ Email - arthurdebiasi@hotmail.com
 
 LinkedIn: [https://linkedin.com/in/arthur-debiasi/](https://linkedin.com/in/arthur-debiasi/)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
+[![CODEWARS][CODEWARS]][CODEWARS-url]
 <div align="center">
-  
-  <a href="https://github.com/ItaloLacerda">
+  <a href="https://github.com/arthur-debiasi">
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=arthur-debiasi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthur-debiasi&layout=compact&langs_count=7&theme=dracula"/>
     </div>
+ <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- CODE WARS -->
+[CODEWARS]: https://www.codewars.com/users/arthurdebiasi/badges/large
+[CODEWARS-url]: https://www.codewars.com/users/arthurdebiasi/
+ 
 <!-- FRONT END -->
 [HTML5]: https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white
 [CSS3]: https://img.shields.io/badge/css_3-1572B6?style=for-the-badge&logo=css3&logoColor=white
