@@ -24,12 +24,16 @@ Arthur is a Front-End Developer always thrilled to focus his time and effort on 
 
 ## Getting Started
 
-Email - arthurdebiasi@hotmail.com
+<div align="left" style="display: inline_block">
+  <a href="https://arthur-debiasi.github.io" target="_blank"><img height="28rem" src="https://img.shields.io/badge/my_portfolio-3fc337?style=for-the-badge" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/arthur-debiasi" target="_blank"><img height="28rem" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+  <a href = "mailto:arthurdebiasi@hotmail.com"><img height="28rem" src="https://img.shields.io/badge/outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" target="_blank"></a>
+</div>
 
-LinkedIn: [https://linkedin.com/in/arthur-debiasi/](https://linkedin.com/in/arthur-debiasi/)
+## 📌 Skills
 
 [![CODEWARS][CODEWARS]][CODEWARS-url]
-<div align="center">
+<div align="left">
   <a href="https://github.com/arthur-debiasi">
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=arthur-debiasi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthur-debiasi&layout=compact&langs_count=7&theme=dracula"/>
