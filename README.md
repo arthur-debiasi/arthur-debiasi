@@ -30,7 +30,7 @@ Arthur is a Front-End Developer always thrilled to focus his time and effort on 
   <a href = "mailto:arthurdebiasi@hotmail.com"><img height="28rem" src="https://img.shields.io/badge/outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" target="_blank"></a>
 </div>
 
-## 📌 Skills
+## 📌 Stats
 
 [![CODEWARS][CODEWARS]][CODEWARS-url]
 <div align="left">
