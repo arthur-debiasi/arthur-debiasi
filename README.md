@@ -46,9 +46,9 @@ Arthur is a Front-End Developer always thrilled to focus his time and effort on 
  
 <!-- FRONT END -->
 [HTML5]: https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white
+[HTML5-URL]: https://developer.mozilla.org/en-US/docs/Glossary/HTML5
 [CSS3]: https://img.shields.io/badge/css_3-1572B6?style=for-the-badge&logo=css3&logoColor=white
 [CSS3-url]: https://developer.mozilla.org/pt-BR/docs/Web/CSS
-[HTML5-URL]: https://developer.mozilla.org/en-US/docs/Glossary/HTML5
 [Javascript]: https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white
 [Javascript-url]: https://developer.mozilla.org/pt-BR/docs/Web/JavaScript
 [Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
