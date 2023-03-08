@@ -25,6 +25,8 @@ Problem solving is my passion. Perhaps, challenge me to a [Clash of Code](https:
 
 ## Getting Started
 
+First, take a look at [my student projects at Trybe](https://github.com/arthur-debiasi/trybe-projects-summary)
+
 <div align="left" style="display: inline_block">
   <a href="https://arthur-debiasi.github.io" target="_blank"><img height="28rem" src="https://img.shields.io/badge/my_portfolio-3fc337?style=for-the-badge" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/arthur-debiasi" target="_blank"><img height="28rem" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
