@@ -7,7 +7,7 @@ I am Arthur <a name="readme-top"></a>Debiasi, a 30 years old Environmental Engin
 
 I am a Web Developer Person always thrilled to spend time and effort on projects. Arthur stands out on diverse and coletive teams by his collaborative and comunication skills. 
 
-Problem solving is my passion. Perhaps, challenge me to a [Clash of Code](https://www.codingame.com/multiplayer/clashofcode) match!
+Problem solving is my passion. Perhaps, challenge me to a [Clash of Code](https://www.codingame.com/multiplayer/clashofcode) match at [Codingame](https://www.codingame.com/profile/12135ce6a608e7575c778549c2fc63251324715)!
 
 ## 🔨 Skills
 
