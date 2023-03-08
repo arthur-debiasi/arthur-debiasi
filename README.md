@@ -1,4 +1,7 @@
 <a name="readme-top"></a>
+
+# (Take a look at [my student projects at Trybe](https://github.com/arthur-debiasi/trybe-projects-summary))
+
 ## About Me
 I am Arthur <a name="readme-top"></a>Debiasi, a 30 years old Environmental Engineer switching to a Information Technology carreer, currently living in Macaé - Brazil and studying at [Trybe](https://betrybe.com).
 
@@ -24,8 +27,6 @@ Problem solving is my passion. Perhaps, challenge me to a [Clash of Code](https:
  >[![Linux][Linux]][Linux-url][![git][git]][git-url][![GitHub][GitHub]][GitHub-url][![Docker][Docker]][Docker-url]
 
 ## Getting Started
-
-First, take a look at [my student projects at Trybe](https://github.com/arthur-debiasi/trybe-projects-summary)
 
 <div align="left" style="display: inline_block">
   <a href="https://arthur-debiasi.github.io" target="_blank"><img height="28rem" src="https://img.shields.io/badge/my_portfolio-3fc337?style=for-the-badge" target="_blank"></a> 
