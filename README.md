@@ -3,7 +3,9 @@
 
 This is Arthur <a name="readme-top"></a>Debiasi, a 30 years old Environmental Engineer switching to a Information Technology carreer, currently living in Macaé - Brazil and studying at [Trybe](https://betrybe.com).
 
-Arthur is a Front-End Developer always thrilled to focus his time and effort on projects that help others on problem solving. Arthur stands out on diverse and coletive teams by his collaborative and comunication skills. 
+Arthur is a Web Developer Person always thrilled to spend time and effort on projects. Arthur stands out on diverse and coletive teams by his collaborative and comunication skills. 
+
+Problem solving is his passion. Perhaps challenge him to a [Clash of Code](https://www.codingame.com/multiplayer/clashofcode) match?
 
 ### Built With
 
