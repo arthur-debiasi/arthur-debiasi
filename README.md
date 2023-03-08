@@ -6,20 +6,20 @@ I am a Web Developer Person always thrilled to spend time and effort on projects
 
 Problem solving is my passion. Perhaps, challenge me to a [Clash of Code](https://www.codingame.com/multiplayer/clashofcode) match!
 
-### Built With
+## 🔨 Skills
 
- * Front-End
+📍 Front-End
 
 > [![HTML5][HTML5]][HTML5-url][![CSS3][CSS3]][CSS3-url][![Javascript][Javascript]][Javascript-url][![Bootstrap][Bootstrap.com]][Bootstrap-url][![React][React.js]][React-url][![Redux][React-Redux.js]][React-Redux-url][![MUI][MUI]][MUI-url]
 
- * Back-End
+📍 Back-End
 > [![MySQL][MySQL]][MySQL-url][![Node.js][Node.js]][Node.js-url][![Typescript][Typescript]][Typescript-url]
 
- * Testing
+📍 Testing
 
  > [![Jest][Jest]][Jest-url][![RTL][RTL]][RTL-url]
 
- * DevOps
+📍 DevOps
 
  >[![Linux][Linux]][Linux-url][![git][git]][git-url][![GitHub][GitHub]][GitHub-url][![Docker][Docker]][Docker-url]
 
