@@ -1,11 +1,10 @@
 <a name="readme-top"></a>
-## About The Project
+## About Me
+I am Arthur <a name="readme-top"></a>Debiasi, a 30 years old Environmental Engineer switching to a Information Technology carreer, currently living in Macaé - Brazil and studying at [Trybe](https://betrybe.com).
 
-This is Arthur <a name="readme-top"></a>Debiasi, a 30 years old Environmental Engineer switching to a Information Technology carreer, currently living in Macaé - Brazil and studying at [Trybe](https://betrybe.com).
+I am a Web Developer Person always thrilled to spend time and effort on projects. Arthur stands out on diverse and coletive teams by his collaborative and comunication skills. 
 
-Arthur is a Web Developer Person always thrilled to spend time and effort on projects. Arthur stands out on diverse and coletive teams by his collaborative and comunication skills. 
-
-Problem solving is his passion. Perhaps challenge him to a [Clash of Code](https://www.codingame.com/multiplayer/clashofcode) match?
+Problem solving is my passion. Perhaps, challenge me to a [Clash of Code](https://www.codingame.com/multiplayer/clashofcode) match!
 
 ### Built With
 
@@ -35,12 +34,7 @@ Problem solving is his passion. Perhaps challenge him to a [Clash of Code](https
 ## 📌 Stats
 
 [![CODEWARS][CODEWARS]][CODEWARS-url]
-<div align="left">
-  <a href="https://github.com/arthur-debiasi">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=arthur-debiasi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthur-debiasi&layout=compact&langs_count=7&theme=dracula"/>
-    </div>
- <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 <!-- CODE WARS -->
 [CODEWARS]: https://www.codewars.com/users/arthurdebiasi/badges/large
