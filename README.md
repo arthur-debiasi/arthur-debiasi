@@ -26,7 +26,7 @@ Problem solving is my passion. Perhaps, challenge me to a [Clash of Code](https:
 
  >[![Linux][Linux]][Linux-url][![git][git]][git-url][![GitHub][GitHub]][GitHub-url][![Docker][Docker]][Docker-url]
 
-## Getting Started
+## 🏳️ Getting Started
 
 <div align="left" style="display: inline_block">
   <a href="https://arthur-debiasi.github.io" target="_blank"><img height="28rem" src="https://img.shields.io/badge/my_portfolio-3fc337?style=for-the-badge" target="_blank"></a> 
@@ -34,7 +34,7 @@ Problem solving is my passion. Perhaps, challenge me to a [Clash of Code](https:
   <a href = "mailto:arthurdebiasi@hotmail.com"><img height="28rem" src="https://img.shields.io/badge/outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" target="_blank"></a>
 </div>
 
-## 📌 Stats
+## 🔼 Stats
 
 [![CODEWARS][CODEWARS]][CODEWARS-url]
 
