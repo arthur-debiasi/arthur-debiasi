@@ -108,8 +108,7 @@ Problem solving is my passion. Perhaps, challenge me to a [Clash of Code](https:
 </details>
 
 <details>
-<summary><h3>:bc: Computer Science</h3></summary>
-:construction: ::construction_worker: :construction:
+<summary><h3>:abc: Computer Science</h3></summary>
 </details>
  
 </details>
