@@ -79,7 +79,7 @@ Problem solving is my passion. Perhaps, challenge me to a [Clash of Code](https:
 <summary><h3>:abc: Back-end</h3></summary>
 
 ### 📌 [Docker Todo List](https://github.com/arthur-debiasi/trybe-back-end-docker-todo-list)
-- :construction: ::construction_worker: :construction:
+- "Containerization" of frontend, backend and test applications using Docker, creating a connection between them and orchestrating their operation.
 
 ### 📌 [All for One](https://github.com/arthur-debiasi/trybe-back-end-all-for-one)
 - :construction: ::construction_worker: :construction:
