@@ -68,7 +68,7 @@ Problem solving is my passion. Perhaps, challenge me to a [Clash of Code](https:
 - Trivia game app developed with React and React Redux ([Page](https://trybe-project-trivia-react-redux.vercel.app/))
 
 ### 📌 [StarWars Planets Search](https://github.com/arthur-debiasi/trybe-front-end-starwars-planet-search)
-- :construction: ::construction_worker: :construction:
+- Application that lists and filters planets from the Star Wars universe using Context API and Hooks to control global states.
 
 ### 📌 [Recipes App](https://github.com/arthur-debiasi/trybe-front-end-recipes-app)
 - React App for drinks and meals recipes built wit Javascript and React, using React Hooks and Context API. ([page](https://recipes-app-debiasi.vercel.app/))
