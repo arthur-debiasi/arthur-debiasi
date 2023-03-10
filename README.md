@@ -59,7 +59,7 @@ Problem solving is my passion. Perhaps, challenge me to a [Clash of Code](https:
 - Simplified application, without database persistence, of an online store.
 
 ### 📌 [React Testint Library](https://github.com/arthur-debiasi/trybe-front-end-react-testing-library)
-- :construction: ::construction_worker: :construction:
+- Creating a test routine for a Pokédex application using React Testing Library.
 
 ### 📌 [Trybe Wallet](https://github.com/arthur-debiasi/trybe-front-end-trybewallet)
 - A wallet for personal expenses management built with Javascript, React and React Redux.
