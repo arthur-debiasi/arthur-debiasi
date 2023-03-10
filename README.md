@@ -53,7 +53,7 @@ Problem solving is my passion. Perhaps, challenge me to a [Clash of Code](https:
 - A Top Trumps like game app built with Javascript and React.
 
 ### 📌 [TrybeTunes](https://github.com/arthur-debiasi/trybe-front-end-trybetunes)
-- :construction: ::construction_worker: :construction:
+- Music streaming application made with React, using component lifecycle methods and React Router.
 
 ### 📌 [FrontEnd Online Store](https://github.com/arthur-debiasi/trybe-front-end-frontend-online-store)
 - :construction: ::construction_worker: :construction:
