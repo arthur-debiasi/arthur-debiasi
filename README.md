@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
 
 ## :sunglasses: About Me
-I am Arthur <a name="readme-top"></a>Debiasi, a 30 years old Environmental Engineer switching to a Information Technology carreer, currently living in Macaé - Brazil and studying at [Trybe](https://betrybe.com).
+I am Arthur <a name="readme-top"></a>Debiasi, a 30 years old Environmental Engineer switching to a Information Technology carreer, currently living at Macaé - Brazil and studying at [Trybe](https://betrybe.com).
 
 I am a Web Developer Person always thrilled to spend time and effort on projects. Arthur stands out on diverse and coletive teams by his collaborative and comunication skills. 
 
@@ -55,7 +55,7 @@ Problem solving is my passion. Perhaps, challenge me to a [Clash of Code](https:
 ### 📌 [TrybeTunes](https://github.com/arthur-debiasi/trybe-front-end-trybetunes)
 - Music streaming application made with React, using component lifecycle methods and React Router.
 
-### 📌 [FrontEnd Online Store](https://github.com/arthur-debiasi/trybe-front-end-frontend-online-store)
+### 📌 [Front-end Online Store](https://github.com/arthur-debiasi/trybe-front-end-frontend-online-store)
 - :construction: ::construction_worker: :construction:
 
 ### 📌 [React Testint Library](https://github.com/arthur-debiasi/trybe-front-end-react-testing-library)
