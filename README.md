@@ -56,7 +56,7 @@ Problem solving is my passion. Perhaps, challenge me to a [Clash of Code](https:
 - Music streaming application made with React, using component lifecycle methods and React Router.
 
 ### 📌 [Front-end Online Store](https://github.com/arthur-debiasi/trybe-front-end-frontend-online-store)
-- :construction: ::construction_worker: :construction:
+- Simplified application, without database persistence, of an online store.
 
 ### 📌 [React Testint Library](https://github.com/arthur-debiasi/trybe-front-end-react-testing-library)
 - :construction: ::construction_worker: :construction:
