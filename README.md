@@ -82,10 +82,10 @@ Problem solving is my passion. Perhaps, challenge me to a [Clash of Code](https:
 - "Containerization" of frontend, backend and test applications using Docker, creating a connection between them and orchestrating their operation.
 
 ### 📌 [All for One](https://github.com/arthur-debiasi/trybe-back-end-all-for-one)
-- Creation of queries in SQL using DDL(Data Definition Language), DML(Data Manipulation Language) and DQL(Data Query Language) commands.
+- Creation of queries in SQL using DDL(Data Definition Language), DML(Data Manipulation Language) and DQL(Data Query Language) commands;
 
 ### 📌 [One for All](https://github.com/arthur-debiasi/trybe-back-end-one-for-all)
-- :construction: ::construction_worker: :construction:
+- Criação de banco de dados, tabelas e queries em SQL utilizando comandos DDL, DML e DQL;
 
 ### 📌 [Talker Manager](https://github.com/arthur-debiasi/trybe-back-end-talker-manager)
 - :construction: ::construction_worker: :construction:
