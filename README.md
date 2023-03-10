@@ -88,7 +88,7 @@ Problem solving is my passion. Perhaps, challenge me to a [Clash of Code](https:
 - Criação de banco de dados, tabelas e queries em SQL utilizando comandos DDL, DML e DQL;
 
 ### 📌 [Talker Manager](https://github.com/arthur-debiasi/trybe-back-end-talker-manager)
-- :construction: ::construction_worker: :construction:
+- Application for talkers (speakers) data mangaement, in which it is possible to register, view, search, edit and delete information.
 
 ### 📌 [Store Manager](https://github.com/arthur-debiasi/trybe-back-end-store-manager)
 - :construction: ::construction_worker: :construction:
