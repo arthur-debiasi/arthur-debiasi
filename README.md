@@ -118,7 +118,7 @@ Problem solving is my passion. Perhaps, challenge me to a [Clash of Code](https:
 
 📍 Front-End
 
-> [![HTML5][HTML5]][HTML5-url][![CSS3][CSS3]][CSS3-url][![Javascript][Javascript]][Javascript-url][![Bootstrap][Bootstrap.com]][Bootstrap-url][![React][React.js]][React-url][![Redux][React-Redux.js]][React-Redux-url][![MUI][MUI]][MUI-url]
+> [![HTML5][HTML5]][HTML5-url][![CSS3][CSS3]][CSS3-url][![Javascript][Javascript]][Javascript-url][![Bootstrap][Bootstrap.com]][Bootstrap-url][![React][React.js]][React-url][![React Router][ReactRouter]][ReactRouter-url][![Redux][React-Redux.js]][React-Redux-url][![MUI][MUI]][MUI-url]
 
 📍 Back-End
 > [![MySQL][MySQL]][MySQL-url][![Node.js][Node.js]][Node.js-url][![Typescript][Typescript]][Typescript-url]
@@ -163,6 +163,8 @@ Problem solving is my passion. Perhaps, challenge me to a [Clash of Code](https:
 [React-url]: https://reactjs.org/
 [React-Redux.js]: https://img.shields.io/badge/react_redux-764ABC?style=for-the-badge&logo=redux&logoColor=white
 [React-Redux-url]: https://react-redux.js.org/
+[ReactRouter]: https://img.shields.io/badge/React_Router-20232A?style=for-the-badge&logo=reactrouter&logoColor=CA4245
+[ReactRouter-url]: https://reactrouter.com/en/main
 
 <!-- BACK-END -->
 [MySQL]: https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white
