@@ -91,7 +91,7 @@ Problem solving is my passion. Perhaps, challenge me to a [Clash of Code](https:
 - Application for talkers (speakers) data mangaement, in which it is possible to register, view, search, edit and delete information.
 
 ### 📌 [Store Manager](https://github.com/arthur-debiasi/trybe-back-end-store-manager)
-- :construction: ::construction_worker: :construction:
+- RESTful API for a sales management application using the MSC (model-service-controller) architecture.
 
 ### 📌 [Blogs API](https://github.com/arthur-debiasi/trybe-back-end-blogs-api)
 - :construction: ::construction_worker: :construction:
