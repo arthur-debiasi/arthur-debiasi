@@ -94,7 +94,7 @@ Problem solving is my passion. Feel free to challenge me to a [Clash of Code](ht
 - RESTful API for a sales management application using the MSC (model-service-controller) architecture.
 
 ### 📌 [Blogs API](https://github.com/arthur-debiasi/trybe-back-end-blogs-api)
-- :construction: ::construction_worker: :construction:
+- This RESTful API for blog management was built with Node.js and Sequelize to provide efficient and scalable blog management functionalities.
 
 ### 📌 [Trybesmith](https://github.com/arthur-debiasi/trybe-back-end-trybesmith)
 - :construction: ::construction_worker: :construction:
