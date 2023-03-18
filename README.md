@@ -1,5 +1,3 @@
-<a name="readme-top"></a>
-
 ## :sunglasses: About Me
 I'm a 30-year-old environmental engineer who is transitioning to a career in information technology. I currently reside in Macaé, Brazil and I'm studying at [Trybe](https://betrybe.com).
 
@@ -97,7 +95,7 @@ Problem solving is my passion. Feel free to challenge me to a [Clash of Code](ht
 - This RESTful API for blog management was built with Node.js and Sequelize to provide efficient and scalable blog management functionalities.
 
 ### 📌 [Trybesmith](https://github.com/arthur-debiasi/trybe-back-end-trybesmith)
-- :construction: ::construction_worker: :construction:
+- This RESTful API for a medieval item shop was built with Node.js and TypeScript to manage login, transactions, and customer data.
 
 ### 📌 [Trybers and Dragons](https://github.com/arthur-debiasi/trybe-back-end-trybers-and-dragons)
 - :construction: ::construction_worker: :construction:
