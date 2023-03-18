@@ -1,13 +1,13 @@
 <a name="readme-top"></a>
 
 ## :sunglasses: About Me
-I am Arthur <a name="readme-top"></a>Debiasi, a 30 years old Environmental Engineer switching to a Information Technology carreer, currently living at Macaé - Brazil and studying at [Trybe](https://betrybe.com).
+I'm a 30-year-old environmental engineer who is transitioning to a career in information technology. I currently reside in Macaé, Brazil and I'm studying at [Trybe](https://betrybe.com).
 
-I am a Web Developer Person always thrilled to spend time and effort on projects. Arthur stands out on diverse and coletive teams by his collaborative and comunication skills. 
+I'm a web developer who's always eager to invest time and effort into coding and stands out in diverse and collective teams.
 
-Problem solving is my passion. Perhaps, challenge me to a [Clash of Code](https://www.codingame.com/multiplayer/clashofcode) match at [Codingame](https://www.codingame.com/profile/12135ce6a608e7575c778549c2fc63251324715)!
+Problem solving is my passion. Feel free to challenge me to a [Clash of Code](https://www.codingame.com/multiplayer/clashofcode) match at [Codingame](https://www.codingame.com/profile/12135ce6a608e7575c778549c2fc63251324715)!
 
-<details>
+<details open>
  <summary><h2>:computer: Trybe Projects</h2></summary>
  
  
@@ -15,7 +15,7 @@ Problem solving is my passion. Perhaps, challenge me to a [Clash of Code](https:
 <summary><h3>:abc: Fundamentals</h3></summary>
 
 ### 📌 [Lessons Learned](https://github.com/arthur-debiasi/trybe-fundamentals-lessons-learned)
-- A HTML/CSS page about lessons that we've learned on the first 3 blocks as Trybe.
+- A HTML/CSS page about the lessons learned in the first three blocks at Trybe.
 
 ### 📌 [Playground Functions](https://github.com/arthur-debiasi/trybe-fundamentals-playground-functions)
 - 13 Problems solved with Javascript.
@@ -33,10 +33,10 @@ Problem solving is my passion. Perhaps, challenge me to a [Clash of Code](https:
 - A pixels board painting page built with Javascript, HTML and CSS. 
 
 ### 📌 [Unit Tests](https://github.com/arthur-debiasi/trybe-fundamentals-unit-tests)
-- A Project with Unit Tests requirements implementation. 
+- A Project for practicing Unit Tests implementation. 
 
 ### 📌 [Zoo Functions](https://github.com/arthur-debiasi/trybe-fundamentals-zoo-functions)
-- A zoo management system simulation to practice Javascript Higher Order Functions. 
+- A simulation of a zoo management system built to practice JavaScript higher-order functions. 
 
 </details>
 
@@ -50,16 +50,16 @@ Problem solving is my passion. Perhaps, challenge me to a [Clash of Code](https:
 - React App about Planets and Missions built with Javascript and React. ([Page](https://solar-system-trybe.vercel.app/))
 
 ### 📌 [Tryunfo](https://github.com/arthur-debiasi/trybe-front-end-tryunfo)
-- A Top Trumps like game app built with Javascript and React.
+- A Top Trumps like game app built with React.
 
 ### 📌 [TrybeTunes](https://github.com/arthur-debiasi/trybe-front-end-trybetunes)
 - Music streaming application made with React, using component lifecycle methods and React Router.
 
 ### 📌 [Front-end Online Store](https://github.com/arthur-debiasi/trybe-front-end-frontend-online-store)
-- Simplified application, without database persistence, of an online store.
+- Simplified application of an online store built with React.
 
 ### 📌 [React Testint Library](https://github.com/arthur-debiasi/trybe-front-end-react-testing-library)
-- Creating a test routine for a Pokédex application using React Testing Library.
+- A test routine for a pre-existing Pokédex application using React Testing Library.
 
 ### 📌 [Trybe Wallet](https://github.com/arthur-debiasi/trybe-front-end-trybewallet)
 - A wallet for personal expenses management built with Javascript, React and React Redux.
@@ -82,13 +82,13 @@ Problem solving is my passion. Perhaps, challenge me to a [Clash of Code](https:
 - "Containerization" of frontend, backend and test applications using Docker, creating a connection between them and orchestrating their operation.
 
 ### 📌 [All for One](https://github.com/arthur-debiasi/trybe-back-end-all-for-one)
-- Creation of queries in SQL using DDL(Data Definition Language), DML(Data Manipulation Language) and DQL(Data Query Language) commands;
+- Creation of queries in SQL using DDL(Data Definition Language), DML(Data Manipulation Language) and DQL(Data Query Language) commands.
 
 ### 📌 [One for All](https://github.com/arthur-debiasi/trybe-back-end-one-for-all)
-- Criação de banco de dados, tabelas e queries em SQL utilizando comandos DDL, DML e DQL;
+- Creation of databases, tables, and queries in SQL using DDL, DML, and DQL commands.
 
 ### 📌 [Talker Manager](https://github.com/arthur-debiasi/trybe-back-end-talker-manager)
-- Application for talkers (speakers) data mangaement, in which it is possible to register, view, search, edit and delete information.
+- Application for speakers' data management, in which it is possible to register, view, search, edit, and delete information.
 
 ### 📌 [Store Manager](https://github.com/arthur-debiasi/trybe-back-end-store-manager)
 - RESTful API for a sales management application using the MSC (model-service-controller) architecture.
