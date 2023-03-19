@@ -4,7 +4,7 @@ I'm a 30-year-old environmental engineer who is transitioning to a career in inf
 <!-- Eu acredito no poder da colaboração, e que nossa força coletiva é resultante da soma dos vetores de nossos esforços individuais.
 Isso é algo que eu pude experimentar na pele durante o início de jornada no Desenvolvimento Web Full Stack. 
 Como pessoa estudante, tive a oportunidade de participar de uma iniciativa voluntária chamada VolunTryber, onde pude contribuir para o crescimento de outros estudantes, além de adquirir habilidades valiosas, tanto tecnológicas, como emocionais e comportamentais.
-Enfim, trabalhar em ambientes colaborativos e diversos me traz muita satisfação, pois permite que eu possa trocar experiências de vida e me desenvolver juntamente a outras pessoas que também valorizam estes aspectos. -->>
+Enfim, trabalhar em ambientes colaborativos e diversos me traz muita satisfação, pois permite que eu possa trocar experiências de vida e me desenvolver juntamente a outras pessoas que também valorizam estes aspectos. -->
 
 I'm a web developer who's always eager to invest time and effort into coding and stands out in diverse and collective teams.
 
