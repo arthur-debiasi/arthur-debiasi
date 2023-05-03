@@ -114,7 +114,7 @@ Problem solving is my passion. Feel free to challenge me to a [Clash of Code](ht
 - :construction: ::construction_worker: :construction:
 
 ### 📌 [Trybe Futebol Clube](https://github.com/arthur-debiasi/trybe-back-end-trybe-futebol-clube)
-- :construction: ::construction_worker: :construction:
+- TFC is an informative website about football matches and standings. In this project, the back-end is dockerized and uses data modeling through Sequelize. In this project, the API is consumed by a pre-provided front-end. To add a match, a token is required, so the person must be logged in to make changes and be able to populate the standings table.
 
 </details>
 
