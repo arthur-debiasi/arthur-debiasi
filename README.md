@@ -13,7 +13,7 @@ Problem solving is my passion. Feel free to challenge me to a [Clash of Code](ht
 <details>
  <summary><h2>:computer: Personal Projects</h2></summary>
  
- ### 📌 [Lexart](https://lexartlabs.com/) Software Engineering Challenge - Product Search Engine [(Repo)](https://github.com/arthur-debiasi/Software-Engineering-Challenge) - [(Page)](https://haggles.up.railway.app/)
+ ### 📌 Software Engineering Challenge - Product Search Engine [(Repo)](https://github.com/arthur-debiasi/Software-Engineering-Challenge) - [(Page)](https://haggles.up.railway.app/)
  
 - This is a web application for product search that connects to Mercado Livre and Buscapé websites to fetch information about products in categories such as TV, Refrigerator, and Mobile. The application is developed using React for the user interface, Material-UI for creating a modern and responsive interface, Cheerio for web scraping the websites' pages, Express and Node.js for building the backend and managing API routes, and Mongoose for connecting to MongoDB database and storing search results.
  
