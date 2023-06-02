@@ -6,9 +6,12 @@ Isso é algo que eu pude experimentar na pele durante o início de jornada no De
 Como pessoa estudante, tive a oportunidade de participar de uma iniciativa voluntária chamada VolunTryber, onde pude contribuir para o crescimento de outros estudantes, além de adquirir habilidades valiosas, tanto tecnológicas, como emocionais e comportamentais.
 Enfim, trabalhar em ambientes colaborativos e diversos me traz muita satisfação, pois permite que eu possa trocar experiências de vida e me desenvolver juntamente a outras pessoas que também valorizam estes aspectos. -->
 
-I'm a web developer who's always eager to invest time and effort into coding and stands out in diverse and collective teams.
 
-Problem solving is my passion. Feel free to challenge me to a [Clash of Code](https://www.codingame.com/multiplayer/clashofcode) match at [Codingame](https://www.codingame.com/profile/12135ce6a608e7575c778549c2fc63251324715)!
+I'm a 30-year-old environmental engineer who is transitioning to a career in information technology. I currently reside in Macaé, Brazil, and I'm studying at Trybe.
+
+I am a web developer who is always eager to invest time and effort into coding and excels in diverse and collaborative teams.
+
+Problem-solving is my passion. Feel free to challenge me to a [Clash of Code](https://www.codingame.com/multiplayer/clashofcode) match at [Codingame](https://www.codingame.com/profile/12135ce6a608e7575c778549c2fc63251324715)!
 
 <details>
  <summary><h2>:computer: Personal Projects</h2></summary>
